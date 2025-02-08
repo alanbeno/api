@@ -12,7 +12,7 @@ def home(value):
     
     '''
     It checks for a query parameter named extra using request.args.get("extra").
-    If the extra query parameter is present in the URL, it adds it to the user_data dictionary under the key "extra".
+    If the extra query parameter is present in the URL, it adds it to the user_data dictionary under the keyy "extra".
 
     '''
 
