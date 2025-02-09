@@ -7,7 +7,8 @@ def home(value):
     user_data = {
         "user_id" : value,
         "name" : "alan",
-        "place" : "kerala"
+        "place" : "kerala",
+        "country" : "India"
           }
     
     '''
