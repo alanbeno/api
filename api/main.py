@@ -8,7 +8,8 @@ def home(value):
         "user_id" : value,
         "name" : "alan",
         "place" : "kerala",
-        "country" : "India"
+        "country" : "India",
+        "planet" : "Earth"
           }
     
     '''
