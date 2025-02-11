@@ -9,7 +9,8 @@ def home(value):
         "name" : "alan",
         "place" : "kerala",
         "country" : "India",
-        "planet" : "Earth"
+        "planet" : "Earth",
+        "species" : "human"
           }
     
     '''
