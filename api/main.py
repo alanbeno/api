@@ -11,6 +11,7 @@ def home(value):
         "state" : "kerala",
         "country" : "India",
         "planet" : "Earth",
+        "galaxy" : "milky way"
         
           }
     
