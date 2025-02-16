@@ -10,9 +10,7 @@ def home(value):
         "place" : "kerala",
         "state" : "kerala",
         "country" : "India",
-        "planet" : "Earth",
-        "galaxy" : "milky way"
-        
+        "planet" : "Earth",    
           }
     
     '''
