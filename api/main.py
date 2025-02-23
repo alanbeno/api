@@ -10,6 +10,7 @@ def home(value):
         "place" : "kerala",
         "state" : "kerala",
         "country" : "India",
+        "hello":"hai"
    
           }
     
